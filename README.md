@@ -1,2 +1,2 @@
 A simulated QuickBooks GL data extractor for multiple companies using Python &amp; Pandas.
-![Workflow Overview](assets\flowchart.gif)
+![Workflow Overview](flowchart.gif)
