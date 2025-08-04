@@ -1,0 +1,25 @@
+{
+  "Company": "Demo_Company_002",
+  "Rows": [
+    {
+      "Account": "Credit Card",
+      "AccountNum": "2050",
+      "Transactions": [
+        {
+          "TxnDate": "2023-02-02",
+          "Description": "Software Subscription",
+          "Debit": 0.0,
+          "Credit": 300.0,
+          "Balance": -300.0
+        },
+        {
+          "TxnDate": "2023-02-15",
+          "Description": "Team Lunch",
+          "Debit": 0.0,
+          "Credit": 150.0,
+          "Balance": -450.0
+        }
+      ]
+    }
+  ]
+}
