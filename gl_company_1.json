@@ -1,0 +1,53 @@
+{
+  "Company": "Demo_Company_001",
+  "Rows": [
+    {
+      "Account": "Bank",
+      "AccountNum": "1010",
+      "Transactions": [
+        {
+          "TxnDate": "2023-01-05",
+          "Description": "Client Payment",
+          "Debit": 1000.0,
+          "Credit": 0.0,
+          "Balance": 1000.0
+        },
+        {
+          "TxnDate": "2023-01-10",
+          "Description": "Office Rent",
+          "Debit": 0.0,
+          "Credit": 500.0,
+          "Balance": 500.0
+        },
+        {
+          "TxnDate": "2023-01-15",
+          "Description": "Utilities",
+          "Debit": 0.0,
+          "Credit": 200.0,
+          "Balance": 300.0
+        },
+        {
+          "TxnDate": "2023-01-20",
+          "Description": "New Equipment Purchase",
+          "Debit": 1200.0,
+          "Credit": 0.0,
+          "Balance": 1500.0
+        },
+        {
+          "TxnDate": "2023-01-25",
+          "Description": "Client Refund",
+          "Debit": 0.0,
+          "Credit": 300.0,
+          "Balance": 1200.0
+        },
+        {
+          "TxnDate": "2023-01-30",
+          "Description": "Service Fee",
+          "Debit": 0.0,
+          "Credit": 100.0,
+          "Balance": 1100.0
+        }
+      ]
+    }
+  ]
+}

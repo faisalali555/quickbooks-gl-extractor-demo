@@ -18,6 +18,34 @@
           "Debit": 0.0,
           "Credit": 150.0,
           "Balance": -450.0
+        },
+        {
+          "TxnDate": "2023-02-20",
+          "Description": "Travel Reimbursement",
+          "Debit": 0.0,
+          "Credit": 200.0,
+          "Balance": -650.0
+        },
+        {
+          "TxnDate": "2023-03-01",
+          "Description": "Conference Fees",
+          "Debit": 0.0,
+          "Credit": 400.0,
+          "Balance": -1050.0
+        },
+        {
+          "TxnDate": "2023-03-05",
+          "Description": "Online Course",
+          "Debit": 0.0,
+          "Credit": 180.0,
+          "Balance": -1230.0
+        },
+        {
+          "TxnDate": "2023-03-10",
+          "Description": "Cloud Hosting",
+          "Debit": 0.0,
+          "Credit": 250.0,
+          "Balance": -1480.0
         }
       ]
     }
